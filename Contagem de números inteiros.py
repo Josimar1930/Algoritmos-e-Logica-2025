@@ -1,4 +1,5 @@
 # Contagem de números inteiros
+
 numero = int(input("Digite um número ineitro para iniciar a contagem: "))
 print("Iniciando contagem...")
 
